@@ -1,4 +1,4 @@
-# MOOC Course Analysis
+# Udemy Course Analysis
 
 This Projects contains the data analytics insights of the Udemy courses datasets of 4 selective major domains.
 
